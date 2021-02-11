@@ -31,7 +31,7 @@ Python | C++ | SQL | Machine Learning
 - 🔭 I’m currently working on Deep Learning Projects.
 - 🌱 I’m currently learning Competitive Programming.
 - 👯 I’m looking to collaborate on Open source project for Hacktoberfest
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rohit-km)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rohit-km/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Still learning yet better than before !
 
@@ -49,5 +49,5 @@ Python | C++ | SQL | Machine Learning
  
 <h3 align="center"> &nbsp;❤️&nbsp; !</h3>
 
-[linkedin]: https://www.linkedin.com/in/rohit-km
+[linkedin]: https://www.linkedin.com/in/rohit-km/
 
